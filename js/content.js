@@ -277,7 +277,7 @@
       var photo = document.querySelector(".hero-photo");
       if (photo) {
         photo.style.backgroundImage =
-          'linear-gradient(135deg, rgba(42,36,32,0.12), rgba(42,36,32,0.35)), url("' +
+          'linear-gradient(160deg, rgba(13,10,8,0.35), rgba(13,10,8,0.55)), url("' +
           data.images.hero +
           '")';
       }
