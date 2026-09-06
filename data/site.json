@@ -1,1 +1,181 @@
-PLACEHOLDER
+{
+  "brand": {
+    "zh": "沐泰軒",
+    "en": "MooThai",
+    "tagline": "沐泰軒 MooThai｜電商易 Starter 形象網站樣板"
+  },
+  "theme": {
+    "bg": "#f7f1e8",
+    "surface": "#fffaf3",
+    "surface2": "#efe6d8",
+    "ink": "#2a2420",
+    "muted": "rgba(42, 36, 32, 0.62)",
+    "sage": "#6b8f71",
+    "sageDark": "#55755b",
+    "clay": "#c4785a",
+    "gold": "#c4a35a",
+    "whatsapp": "#25d366",
+    "line": "rgba(107, 143, 113, 0.22)"
+  },
+  "meta": {
+    "title": "沐泰軒 MooThai｜電商易 Starter 形象網站樣板示範",
+    "description": "電商易（EshopEasy）Starter 形象網站樣板示範：虛構品牌沐泰軒 MooThai。展示香港按摩店價錢牌、套票與 WhatsApp 預約。非真實營業、非已簽約客戶案例。"
+  },
+  "contact": {
+    "title": "沐泰軒（樣板示範）",
+    "phoneDigits": "85291234568",
+    "phoneDisplay": "9123 4568",
+    "waDefaultText": "您好，想查詢沐泰軒價錢牌／套票（樣板示範）",
+    "tagline": "樣板示範 · 虛構品牌 · 非真實營業",
+    "demoNote": "DEMO 電話｜樣板示範用，請替換為真實 WhatsApp",
+    "area": "香港（地址佔位，可自訂）",
+    "address": "香港九龍某某道 88 號地下（DEMO 佔位地址）",
+    "hours": "每日 11:00–22:00（DEMO）"
+  },
+  "hero": {
+    "eyebrow": "電商易 Starter 形象網站樣板 · 虛構品牌 沐泰軒",
+    "title": "沐泰軒 MooThai｜中泰按摩療癒",
+    "lede": "此為電商易（EshopEasy）Starter 形象網站樣板示範，品牌「沐泰軒 MooThai」為虛構佔位。展示香港按摩店常見結構：明碼價錢牌、套票優惠與 WhatsApp 一鍵預約。流動裝置優先，無需後台即可預覽。",
+    "chips": [
+      "明碼價錢牌",
+      "套票更抵",
+      "WhatsApp 即約",
+      "樣板示範"
+    ]
+  },
+  "trust": [
+    {
+      "title": "明碼價錢牌",
+      "body": "單次療程收費公開列出，無隱藏加價"
+    },
+    {
+      "title": "套票靈活",
+      "body": "新客體驗、放鬆五次、深度五次可選"
+    },
+    {
+      "title": "WhatsApp 即約",
+      "body": "一鍵預約時段，無需填寫繁複表格"
+    }
+  ],
+  "priceBoard": {
+    "heading": "價錢牌",
+    "lede": "單次療程明碼實價（HKD）。樣板示範——參考本地按摩店公開優惠綜合後約低 10%。",
+    "waText": "您好，想查詢沐泰軒【價錢牌】單次療程（樣板示範）",
+    "waLabel": "WhatsApp 查詢價錢牌",
+    "items": [
+      {
+        "name": "足底按摩",
+        "options": "45′ $198　／　60′ $258"
+      },
+      {
+        "name": "中式穴位推拿",
+        "options": "45′ $268　／　60′ $328　／　90′ $428"
+      },
+      {
+        "name": "泰式古法按摩",
+        "options": "60′ $318　／　90′ $398"
+      },
+      {
+        "name": "香薰精油推油",
+        "options": "60′ $348　／　90′ $448"
+      },
+      {
+        "name": "泰式草藥球舒緩",
+        "badge": "皇牌",
+        "options": "90′ $468"
+      },
+      {
+        "name": "治癒組合",
+        "options": "穴位 60′＋足底 30′　$398"
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "newcomer",
+      "category": "新客",
+      "nameZh": "新客體驗套票",
+      "nameEn": "New Guest Trial",
+      "icon": "lotus",
+      "badge": "限一次",
+      "featured": true,
+      "summary": "限一次／指定項目：足底按摩 45′ 或中式穴位推拿 45′ 二選一。示意優惠價。",
+      "price": "178",
+      "priceNote": "單次體驗 · 樣板示範",
+      "detail": "限一次／指定項目（足底 45′ 或穴位 45′ 二選一）",
+      "bullets": [
+        "限一次／指定項目（足底45′或穴位45′二選一）",
+        "示意優惠價 HK$178",
+        "適合首次體驗手法",
+        "樣板示範 · 非真實營業"
+      ],
+      "waText": "您好，想預約【新客體驗套票】限一次／指定項目（足底45′或穴位45′二選一）HK$178— 樣板示範"
+    },
+    {
+      "id": "relax5",
+      "category": "五次套票",
+      "nameZh": "放鬆五次套票",
+      "nameEn": "Relax Mix 5-Pack",
+      "icon": "thai",
+      "badge": "最受歡迎",
+      "featured": true,
+      "summary": "5 次套票，可混用足底 60′／穴位 60′／泰式 60′。有效期 90 日，不可轉讓。",
+      "price": "1,480",
+      "priceNote": "約 HK$296／次 · 有效期 90 日",
+      "detail": "可混用：足底 60′　／　穴位 60′　／　泰式古法 60′",
+      "bullets": [
+        "合共 5 次，可混用三選一（每次 60′）",
+        "有效期 90 日",
+        "不可轉讓（不可轉名）",
+        "樣板示範 · 非真實營業"
+      ],
+      "waText": "您好，想預約【放鬆五次套票】5次（可混用足底60′／穴位60′／泰式60′）HK$1,480｜有效期90日｜不可轉讓— 樣板示範"
+    },
+    {
+      "id": "deep5",
+      "category": "深度療癒",
+      "nameZh": "深度五次套票",
+      "nameEn": "Deep Healing 5-Pack",
+      "icon": "herb",
+      "badge": "深度",
+      "featured": true,
+      "summary": "5 次深度 90′，可混用泰式古法 90′ 或中式穴位 90′。有效期 90 日，不可轉讓。亦可查詢草藥球 90′＋推油 60′。",
+      "price": "2,180",
+      "priceNote": "約 HK$436／次 · 有效期 90 日",
+      "detail": "可混用：泰式古法 90′　／　中式穴位 90′",
+      "bullets": [
+        "合共 5 次深度 90′（可混用泰式／穴位）",
+        "有效期 90 日",
+        "不可轉讓（不可轉名）",
+        "樣板示範 · 非真實營業"
+      ],
+      "waText": "您好，想預約【深度五次套票】5次90′（可混用泰式／穴位）HK$2,180｜有效期90日｜不可轉讓— 樣板示範"
+    }
+  ],
+  "pricingFootnote": "價錢牌與套票參考 Toby／本地按摩店公開優惠（沐館、慢活谷、The Relax Thai、Natural Thai、ChillZone 等）綜合後定於平均線約低 10%；樣板示範。實際可按店舖位置／技師資歷調整。",
+  "about": {
+    "kicker": "關於沐泰軒（樣板示範）",
+    "name": "沐泰軒 MooThai",
+    "role": "中式穴位｜泰式古法｜精油與草藥球（樣板示範）",
+    "bio": "此為樣板示範簡介，品牌「沐泰軒 MooThai」為虛構。請替換為真實店舖故事：中泰手法理念、店內氛圍、服務地區與營業時間。強調明碼價錢牌、套票靈活、WhatsApp 即約。",
+    "bio2": "示範文字：融合中式穴位推拿與泰式古法，輔以香薰精油與草藥球熱敷，營造溫暖療癒的放鬆空間。本頁僅供電商易 Starter 形象網站模板展示，並非真實營業或已簽約客戶。",
+    "highlights": [
+      "中式穴位推拿",
+      "泰式古法按摩",
+      "香薰精油推油",
+      "草藥球皇牌"
+    ]
+  },
+  "contactSection": {
+    "heading": "WhatsApp 預約套票（樣板）",
+    "body": "無需填寫表格。直接 WhatsApp 預約套票或查詢價錢牌即可。此號碼、地址與品牌均為樣板示範佔位，請於 data/site.json 更換為您的資料。"
+  },
+  "footerTag": "沐泰軒 MooThai｜樣板示範 · 虛構品牌 · 電商易（EshopEasy）Starter 形象網站樣板 DEMO · 非真實營業 · 非已簽約客戶",
+  "templateNote": "樣板示範：沐泰軒 MooThai 為虛構品牌，本站由電商易（EshopEasy）提供作為 Starter 形象網站結構與定價呈現模板，並非真實營業中的按摩店舖，亦不代表已簽約客戶案例。",
+  "starterBadge": "電商易 Starter 形象網站樣板",
+  "images": {
+    "logo": "assets/logo.svg",
+    "hero": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=1400&q=80",
+    "heroCredit": "Photo via Unsplash"
+  }
+}
